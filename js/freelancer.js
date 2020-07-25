@@ -16,6 +16,7 @@ $(function() {
 });
 
 // Floating label headings for the contact form
+/*
 $(function() {
     $("body").on("input propertychange", ".floating-label-form-group", function(e) {
         $(this).toggleClass("floating-label-form-group-with-value", !! $(e.target).val());
@@ -25,6 +26,7 @@ $(function() {
         $(this).removeClass("floating-label-form-group-with-focus");
     });
 });
+*/
 
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({

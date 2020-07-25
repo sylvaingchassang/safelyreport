@@ -15,7 +15,9 @@ Gem::Specification.new do |spec|
     f.match(%r{^(assets|_(includes|layouts|posts)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
   end
 
-  spec.add_runtime_dependency "jekyll", "~> 4.0"
+  #spec.add_runtime_dependency "jekyll", "~> 4.0"
+  # github-pages depends on 3.8.7 (as of Jul 2020)
+  spec.add_runtime_dependency "jekyll", "~> 3.8.7"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
   spec.add_runtime_dependency "jekyll-sitemap", "~> 1.3"
   spec.add_runtime_dependency "jekyll-gist", "~> 1.5"

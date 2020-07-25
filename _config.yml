@@ -1,7 +1,8 @@
 # Site settings
 title: Safely Report COVID-19 Exposure
 email: info@safelyreport.org
-url: https://sylvaingchassang.github.io/safelyreport/
+url: https://sylvaingchassang.github.io
+baseurl: /safelyreport
 description: "Safely Report COVID-19 Exposure"
 keywords: "workplace safety, COVID-19"
 

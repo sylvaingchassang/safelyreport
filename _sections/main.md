@@ -1,15 +1,15 @@
 ---
-title: Home
-layout: default
+title: Encouraging Workers to Self-Report Exposure to COVID-19
+order: 1
+short_name: main
 ---
-## Encouraging Workers to Self-Report Exposition to COVID19
 #### June 29, 2020
 
 As the economy reopens, employers are striving to adopt policies and practices that protect their employees from [contracting COVID19](https://hbr.org/2020/05/5-tips-for-safely-reopening-your-office), particularly as infections [continue to surge](https://www.washingtonpost.com/nation/2020/06/28/coronavirus-live-updates-us/) in many states. Data suggests that promptly [managing COVID19 cases](https://hbr.org/2020/03/your-employee-tested-positive-for-covid-19-what-do-you-do) is [extremely valuable](https://www.nytimes.com/2020/05/20/us/coronavirus-distancing-deaths.html). Unfortunately, suppressing outbreaks early is challenging because hard-to-identify pre- symptomatic patients are contagious. Ideally, employees would pro-actively report being at risk – because they, or someone in their immediate environment, is experiencing early symptoms – as soon as they suspect they may have been exposed. However, employees may not want to reveal that they are a contagion risk. In spite of [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/reducing-stigma.html) and [WHO](https://www.who.int/publications/m/item/a-guide-to-preventing-and-addressing-social-stigma-associated-with-covid-19) guidelines on reducing [stigma](https://hbr.org/2020/04/dont-let-fear-of-covid-19-turn-into-stigma), reports of discrimination against [COVID19 survivors](https://www.latimes.com/california/story/2020-04-18/fear-and-stigma-around-coronavirus-deliver-harm-and-control) and [frontline workers](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31191-0/fulltext) abound.
 
-In order to limit the spread of COVID19 in workplaces, managers must ensure that employees are comfortable disclosing their risk. A potential solution, is to implement “random rotation” policies in the workplace. In this approach, all workers are regularly [surveyed](https://www.mayoclinic.org/covid-19-self-assessment-tool) about their COVID19 exposure and symptoms. Based on survey responses, a minimum share of employees, say between 5 and 10%, is systematically rotated out of the workplace for a week. Employees rotated out include all employees reporting COVID19 exposure as well as a randomly-selected group of employees who do not. At the end of the week, returning employees are [tested for symptoms](TODO: no link in the HBR pdf?). Symptomatic or COVID19-positive employees receive appropriate medical care.
+In order to limit the spread of COVID19 in workplaces, managers must ensure that employees are comfortable disclosing their risk. A potential solution, is to implement “random rotation” policies in the workplace. In this approach, all workers are regularly [surveyed](https://www.mayoclinic.org/covid-19-self-assessment-tool) about their COVID19 exposure and symptoms. Based on survey responses, a minimum share of employees, say between 5 and 10%, is systematically rotated out of the workplace for a week. Employees rotated out include all employees reporting COVID19 exposure as well as a randomly-selected group of employees who do not. At the end of the week, returning employees are [tested for symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). Symptomatic or COVID19-positive employees receive appropriate medical care.
 
-TODO: INSERT GRAPHIC
+![covid_flow](assets/img/covid_flow.png){:class="img-responsive"}
 
 Random rotation ensures that workers who report exposure maintain plausible deniability vis à vis coworkers and direct managers. An employee being sent home can plausibly argue that he or she was unwillingly randomly-selected. Through this channel, workers concerned that they may be sick can safely ask to temporarily isolate. The cost of random rotation is that some employees will be sent home even if they don’t ask to be. This is a calculated cost. The fact that healthy people can be rotated out of work is the reason it is safe to self-report exposure.
 

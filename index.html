@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% assign sections = site.sections | sort: "order" %}
+{% for section in sections %}
+  {% if section.hide != true %}
+  <section id="{{ section.short_name }}">
+    <div class="container">
+      <h1>{{ section.title }}</h1>
+      {{ section.content | markdownify }}
+    </div>
+  </section>
+  {% endif %}
+{% endfor %}

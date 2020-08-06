@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: References
 order: 5
 short_name: resources
 ---
@@ -18,14 +18,3 @@ Chassang, S., and G. Padro-i-Miquel (2019): “[Crime, Intimidation, and Whistle
 Rosenfeld, Bryan, Kosuke Imai, and Jacob N. Shapiro (2016): “[An Empirical Validation Study of Popular Survey Methodologies for Sensitive Questions](https://imai.fas.harvard.edu/research/files/validate.pdf),” *American Journal of Political Science*, 60(3): 783–802. 
 
 Warner, S. L. (1965): “[Randomized response: A survey technique for eliminating evasive answer bias](https://doi.org/10.1080/01621459.1965.10480775),” *Journal of the American Statistical Association*, 60, 63–69.
-
-<!--
-Related Organizations:
-
-Possible text: We link to two organizations that we know have developed survey solutions that could support the implementation of random rotation policies or that have capabilities to develop these solutions. If your organization has developed a survey solution to implement random rotation and wants to be added to this list, please contact us below. 
-
-Qualtrics?
-
-LaborLink?
--->
-

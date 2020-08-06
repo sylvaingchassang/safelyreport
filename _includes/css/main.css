@@ -107,7 +107,7 @@ header {
 
 header .container {
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
 }
 
 header img {
@@ -117,8 +117,8 @@ header img {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 50px;
-        padding-bottom: 100px;
+        padding-top: 150px;
+        padding-bottom: 0px;
     }
 }
 
@@ -183,7 +183,7 @@ header img {
 }
 
 section {
-    padding: 10px 0;
+    padding: 10px;
 }
 
 section h2 {
@@ -201,10 +201,6 @@ section li {
 }
 
 @media(max-width:767px) {
-    section {
-        padding: 75px 0;
-    }
-
     section.first {
         padding-top: 75px;
     }
@@ -240,12 +236,13 @@ footer h3 {
 }
 
 footer .footer-above {
-    padding-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: #{{ site.color.secondary }};
 }
 
 footer .footer-col {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 footer .footer-below {

@@ -1,8 +1,8 @@
 # Site settings
-title: Safely Report COVID-19 Exposure
-email: info@safelyreport.org
-url: https://safelyreport.org
-baseurl: https://safelyreport.org
+title: "Safely Report COVID-19 Exposure"
+email: "info@safelyreport.org"
+url: "https://www.safelyreport.org"
+baseurl: "https://www.safelyreport.org"
 description: "Safely Report COVID-19 Exposure"
 keywords: "workplace safety, COVID-19"
 

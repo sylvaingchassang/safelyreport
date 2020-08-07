@@ -11,4 +11,4 @@ Under random rotation, all workers are regularly [surveyed](https://www.mayoclin
 
 Through random rotation, workers concerned that they may be sick can safely ask to temporarily isolate. The fact that healthy people can be rotated out of work ensures that nobody can know for sure whether a particular worker is rotated out because they reported exposure, or because they were chosen randomly.
 
-Random rotation builds on decades of social science research referenced [below](#resources).
+Random rotation builds on decades of social science research referenced [below](#resources){:class="page-scroll"}.

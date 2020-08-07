@@ -3,7 +3,7 @@ title: Solutions
 order: 2
 short_name: solutions
 ---
-To facilitate implementation, we provide three templates for random rotation that organizations can adapt to their own needs. All materials are provided under the [GNU Copy Left License v3](https://www.gnu.org/licenses/gpl-3.0.en.html). By using this website and its contents, you agree to the following [terms of service](#terms_of_service).
+To facilitate implementation, we provide three templates for random rotation that organizations can adapt to their own needs. All materials are provided under the [GNU Copy Left License v3](https://www.gnu.org/licenses/gpl-3.0.en.html){:target="_blank"}. By using this website and its contents, you agree to the following [terms of service](#terms_of_service).
 
 <!-- This section required some HTML, could not be formatted so easily in pure Markdown -->
 <!-- TODO: paragraphs take up different amounts of vertical space right around 768px breakpoint, buttons go out of lalignment -->

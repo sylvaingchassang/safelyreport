@@ -156,22 +156,6 @@ section img {
     margin: 20px auto 20px;
 }
 
-.btn-primary {
-    margin-top: 15px;
-    border: solid 2px #fff;
-    font-size: 20px;
-    color: #fff;
-    background: #{{ site.color.secondary }};
-    transition: all .3s ease-in-out;
-}
-
-.btn-primary:hover, 
-.btn-primary:focus {
-    border: solid 2px #fff;
-    color: #{{ site.color.primary }};
-    background: #{{ site.color.secondary }};
-}
-
 footer {
     color: #fff;
 }
@@ -195,15 +179,21 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
 }
 
-.btn-social {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    border: 2px solid #fff;
-    border-radius: 100%;
-    text-align: center;
+
+.btn-primary {
+    margin-top: 15px;
+    border: solid 2px #fff;
     font-size: 20px;
-    line-height: 45px;
+    color: #fff;
+    background: #{{ site.color.secondary }};
+    transition: all .3s ease-in-out;
+}
+
+.btn-primary:hover, 
+.btn-primary:focus {
+    border: solid 2px #fff;
+    color: #{{ site.color.primary }};
+    background: #{{ site.color.secondary }};
 }
 
 .btn:focus,

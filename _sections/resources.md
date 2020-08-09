@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: References
 order: 5
 short_name: resources
 ---

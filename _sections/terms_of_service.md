@@ -1,5 +1,5 @@
 ---
-title: Terms of Services
+title: Terms of Service
 order: 7
 short_name: terms_of_service
 ---

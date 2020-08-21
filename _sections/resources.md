@@ -5,7 +5,7 @@ short_name: resources
 ---
 Related Writings: 
 
-Boudreau, L. and S. Chassang (2020): “Encouraging Workers to Self-Report Exposition to COVID19,” *Harvard Business Review (Web)*, TBD. 
+Boudreau, L. and S. Chassang (2020): “[How to Get Employees to Report Their COVID-19 Risk](https://hbr.org/2020/08/how-to-get-employees-to-report-their-covid-19-risk){:target="_blank"},” *Harvard Business Review (Web)*.
 
 Related Academic Research: 
 

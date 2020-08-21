@@ -5,7 +5,7 @@ short_name: resources
 ---
 Related Writings: 
 
-Boudreau, L. and S. Chassang (2020): “[How to Get Employees to Report Their COVID-19 Risk](https://hbr.org/2020/08/how-to-get-employees-to-report-their-covid-19-risk){:target="_blank"},” *Harvard Business Review (Web)*.
+Boudreau, L. and S. Chassang (2020): “[How to Get Employees to Report Their COVID-19 Risk](https://hbr.org/2020/08/how-to-get-employees-to-report-their-covid-19-risk){:target="_blank"},” *Harvard Business Review (Web)*, August 21, 2020.
 
 Related Academic Research: 
 
